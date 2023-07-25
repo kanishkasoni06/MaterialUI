@@ -1,6 +1,6 @@
 import React from 'react'
 import { Favorite, FavoriteBorder, MoreVert, Share } from '@mui/icons-material'
-import { Avatar, Box, Card, CardActions, CardContent, CardHeader, CardMedia, Checkbox, IconButton, Typography } from '@mui/material'
+import { Avatar,  Card, CardActions, CardContent, CardHeader, CardMedia, Checkbox, IconButton, Typography } from '@mui/material'
 import arr from "../Data/Data";
 const Post = () => {
   return (

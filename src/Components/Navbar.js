@@ -18,7 +18,7 @@ import {
   Divider,
   List,
 } from "@mui/material";
-import { pink } from "@mui/material/colors";
+// import { pink } from "@mui/material/colors";
 import React from "react";
 import { useState } from "react";
 
@@ -54,12 +54,12 @@ const StyledModal = styled(Modal)({
   alignItems: "center",
   justifyContent: "center",
 });
-const UseBox = styled(Box)({
-  display: "flex",
-  alignItems: "center",
-  gap: "10px",
-  marginBottom: "20px",
-});
+// const UseBox = styled(Box)({
+//   display: "flex",
+//   alignItems: "center",
+//   gap: "10px",
+//   marginBottom: "20px",
+// });
 const Navbar = () => {
   const [open,setOpen]=useState(false)
   const [messagebox,setMessagebox]=useState(false)
