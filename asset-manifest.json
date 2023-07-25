@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/static/js/main.e222eb09.js",
+    "static/media/pizza1.jpg": "/static/media/pizza1.257370098e5f27643ed2.jpg",
+    "static/media/Ravioli.jpeg": "/static/media/Ravioli.7927ddcf27347a6c9d62.jpeg",
+    "static/media/Doughnut.jpeg": "/static/media/Doughnut.9c06ee4103330cc52b1e.jpeg",
+    "static/media/Pasta.webp": "/static/media/Pasta.90b4dec7557fc90ac250.webp",
+    "static/media/momo.jpg": "/static/media/momo.9360001027513b10e4fb.jpg",
+    "static/media/cupcake.jpg": "/static/media/cupcake.00a8d95c1a2bbd569213.jpg",
+    "static/media/noodles.jpg": "/static/media/noodles.53fa0b9d65f8b723ce69.jpg",
+    "index.html": "/index.html",
+    "main.e222eb09.js.map": "/static/js/main.e222eb09.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.e222eb09.js"
+  ]
+}
